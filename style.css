@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(17, 131, 166);
+    background-color: rgba(148, 218, 216, 0.575);
 }
 
 .urmi {
-    background-color: rgb(149, 222, 245);
+    background-color: rgba(165, 239, 200, 0.565);
 }
 
 .ihan {
@@ -12,7 +12,7 @@ body {
 }
 
 marquee {
-    font-size: 50pt;
+    font-size: 30pt;
     color: red;
 }
 
@@ -37,5 +37,5 @@ a {
 
 a:hover {
     color: rgb(36, 243, 233);
-    font-size: 35pt;
+    font-size: 25pt;
 }
